@@ -1,7 +1,8 @@
 # Idea
 
 Load Documents,chunk them ,Index them , embed and store in vector Db, then work on the retrieval part and the agent workflow, this is gonna take a long tim  
-
+Still a work in progress
+``
 
 # Guide Reference
 
